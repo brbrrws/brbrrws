@@ -1,4 +1,4 @@
-- - 👋 Waddup, my name is @brbrrws (b.r.b), or peng (p3n6)
+- - 👋 Waddup, my name is brb (brbrrws), or peng (p3n6).
 
 - - 👀 I’m looking forward to learning all kinds of new knowledge surrounding software!
 
