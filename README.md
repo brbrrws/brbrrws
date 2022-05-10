@@ -3,7 +3,7 @@
 - - 👀 I’m looking forward to learning all kinds of new knowledge surrounding software!
 
 - - 🌱 I’m currently learning Python as my first language; I haven't fully committed to learning yet, but very soon I will have a routine/schedule each day
-according to a plan for learning everything in a comfortable and fun manner!
+according to a roadmap for learning everything in a comfortable and fun manner!
 
 - - 🤝 I’m always open to new friendships where we can teach eachother and share perspectives (and chat + have fun of course!) See below:
 
