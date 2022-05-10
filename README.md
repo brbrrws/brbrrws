@@ -1,6 +1,6 @@
 - - 👋 Waddup, my name is brb (brbrrws), or peng (p3n6).
 
-- - 👀 I’m looking forward to learning all kinds of new knowledge surrounding software!
+- - 👀 I’m looking forward to learning all kinds of new knowledge surrounding software development/programming!
 
 - - 🌱 I’m currently learning Python as my first language; I haven't fully committed to learning yet, but very soon I will have a routine/schedule each day
 according to a roadmap for learning everything in a comfortable and fun manner!
