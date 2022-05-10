@@ -11,7 +11,7 @@ according to a roadmap for learning everything in a comfortable and fun manner!
 
 Discord: p3n6#0420
 
-Instagram: @p3n6u1n
+Instagram: @pen6win
 
 <!---
 brbrrws/brbrrws is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
